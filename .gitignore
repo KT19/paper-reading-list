@@ -1,0 +1,16 @@
+# System
+.DS_Store
+
+# Client (Node/Vite)
+node_modules/
+client/dist/
+
+# Server (Python)
+__pycache__/
+.venv/
+.uv/
+
+# Project Data & Privacy
+data/
+.env
+.pids/
